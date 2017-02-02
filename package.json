@@ -1,0 +1,23 @@
+{
+  "name": "sap-hcp-cf-beta-alexa-server",
+  "version": "0.0.1",
+  "description": "Alexa Skill based on alexa-app-server running on SAP HANA Cloud, Cloud Foundry Service Beta based on alexa-app-server",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gregorwolf/sap-hcp-cf-beta-alexa-server.git"
+  },
+  "keywords": [
+    "sap",
+    "Cloud Foundry",
+    "cloud",
+    "alexa",
+    "hcp"
+  ],
+  "author": "Gregor Wolf",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-app": "^2.4.0",
+    "alexa-app-server": "^2.3.1"
+  }
+}
